@@ -1,0 +1,1 @@
+So, as per ODINs request, this is my first attempt at making a 'proper' website to practice writing in HTML and get used to using the different elements I've been learning about. These include writing HTML boilerplate, headings, paragraphs, links and images. I will attempt to write a recipe website... We shall see how it goes!# odin-repositories
